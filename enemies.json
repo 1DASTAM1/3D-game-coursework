@@ -1,0 +1,59 @@
+{
+  "enemies": {
+    "1": {
+      "texture": "assets/textures/enemy_revolver.png",
+      "hp": 100,
+      "speed": 0.6,
+      "sightRange": 7,
+      "fieldOfView": 120,
+      "angle": 3.14159265,
+      "damage": 10,
+      "fireInterval": 0.8,
+      "reactionTime": 0.7
+    },
+    "2": {
+      "texture": "assets/textures/enemy_knife.png",
+      "hp": 50,
+      "speed": 1.8,
+      "sightRange": 9,
+      "fieldOfView": 120,
+      "angle": 3.14159265,
+      "damage": 15,
+      "fireInterval": 1.1,
+      "reactionTime": 0.4
+    },
+    "3": {
+      "texture": "assets/textures/enemy_boss.png",
+      "hp": 350,
+      "speed": 0.38,
+      "sightRange": 9,
+      "fieldOfView": 120,
+      "angle": 3.14159265,
+      "damage": 10,
+      "fireInterval": 0.8,
+      "reactionTime": 0.7
+    },
+    "4": {
+      "texture": "assets/textures/enemy_sniper.png",
+      "hp": 50,
+      "speed": 0.15,
+      "sightRange": 18,
+      "fieldOfView": 120,
+      "angle": 3.14159265,
+      "damage": 35,
+      "fireInterval": 3.5,
+      "reactionTime": 1.4
+    },
+    "5": {
+      "texture": "assets/textures/enemy_dynamite.png",
+      "hp": 75,
+      "speed": 0.4,
+      "sightRange": 11,
+      "fieldOfView": 120,
+      "angle": 3.14159265,
+      "damage": 35,
+      "fireInterval": 3.6,
+      "reactionTime": 1.0
+    }
+  }
+}

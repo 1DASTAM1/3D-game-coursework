@@ -1,0 +1,12 @@
+{
+  "bindings": {
+    "forward": "W",
+    "backward": "S",
+    "left": "A",
+    "right": "D",
+    "use": "E",
+    "pistol": "1",
+    "shotgun": "2",
+    "fire": "MouseLeft"
+  }
+}

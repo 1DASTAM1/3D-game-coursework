@@ -1,0 +1,40 @@
+{
+  "entities": {
+    "1": {
+      "name": "Аптечка",
+      "effect": "health",
+      "amount": 20,
+      "texture": "assets/textures/medkit.png",
+      "width": 0.38,
+      "height": 0.28
+    },
+    "2": {
+      "name": "Патроны",
+      "effect": "ammo",
+      "amount": 10,
+      "texture": "assets/textures/revolver_ammo.png",
+      "width": 0.34,
+      "height": 0.26
+    },
+    "3": {
+      "name": "Дробовик",
+      "effect": "shotgun",
+      "amount": 4,
+      "texture": "assets/textures/shotgun_pickup.png",
+      "width": 0.7,
+      "height": 0.23
+    },
+    "4": {
+      "name": "Патроны для дробовика",
+      "effect": "shells",
+      "amount": 4,
+      "texture": "assets/textures/shotgun_ammo.png",
+      "width": 0.25,
+      "height": 0.2
+    }
+  },
+  "effects": {
+    "dynamite": "assets/textures/dynamite.png",
+    "explosion": "assets/textures/dynamite_explosion.png"
+  }
+}

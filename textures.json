@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "1": "assets/textures/ceiling_brick.png",
+    "2": "assets/textures/floor_wood.png",
+    "3": "assets/textures/ceiling_sky.png",
+    "4": "assets/textures/door_lift_grate.png",
+    "5": "assets/textures/wall_exit_door.png",
+    "6": "assets/textures/door_lift_wood.png",
+    "7": "assets/textures/wall_wood.png",
+    "8": "assets/textures/floor_dirt.png",
+    "9": "assets/textures/ceiling_wood.png"
+  }
+}
